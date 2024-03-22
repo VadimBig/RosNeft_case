@@ -1,0 +1,6 @@
+Value(P) = 1
+Value(amg) = 2
+Value(amo) = 3
+Value(Cpo) = 4
+Value(Cpg) = 5
+Value(Htarget) = 6
